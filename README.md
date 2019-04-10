@@ -5,4 +5,4 @@ It includes a `Dockerfile` for building a Docker image with the application, and
 
 https://getintodevops.com
 
-edit 2.2
+edit 2.3
